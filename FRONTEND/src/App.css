@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.page{
+    width: 100%;
+}
+
+.content {
+    padding-top: 70px; 
+  }
+  
+
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    background-color: #f8f9fa; 
+  }
+  
+  .nav-link.active {
+    font-weight: bold;
+  }
+  
